@@ -34,4 +34,16 @@ https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it forward all msgs from one jid ᴛᴏ ᴊɪᴅ to another jid<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
+
+<h4 align="center">yt play&doc</h4>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
+
+
+```js
+https://gist.githubusercontent.com/inrl-md/aa6bcb5132167cb3d0525a37cb33b6b9/raw/5c7b97fa71cf517dad8571ed38d270d0c322c424/ytplay.doc.js
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ꜱᴇɴᴅ ᴩʟᴀy ᴀɴᴅ ᴅᴏᴄ ᴄᴍᴅ ᴛᴏ ᴜꜱᴇ ɪɴꜰᴏ ᴏꜰ ᴠɪᴅᴇᴏ ᴀɴᴅ ɢɪᴠᴇ ᴅᴏᴄᴜᴍᴇɴᴛ ꜰᴏʀᴍᴇᴛ<br> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
+<br>
 <br>
