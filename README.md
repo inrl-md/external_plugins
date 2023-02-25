@@ -20,7 +20,18 @@ note - this plugin only work in inrl-bot,
 https://gist.githubusercontent.com/inrl-official/89aba2b63cb7b869b36651965af180e7/raw/d654d05f2fc0facee1e86b0ce66f9f2167a7bf0a/fd.js
 ```
 - [x] example<details><summary>usage</summary><img src="https://i.imgur.com/HhlUx7C.jpeg"></details>
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴛᴏ ᴊɪᴅ ᴡɪᴛʜ ᴇxᴛᴇʀɴᴇʟ ᴀᴅ ʀᴇᴩʟy<br> 
+
+<br>
+
+<h4 align="center">ᴀᴜᴛᴏ forward</h4>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
+
+
+```js
+https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f7/raw/a88389f540881bd034a31070cc227cc177b15603/autoforwd.js
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it forward all msgs from one jid ᴛᴏ ᴊɪᴅ to another jid<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 <br>
