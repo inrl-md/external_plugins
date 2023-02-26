@@ -23,7 +23,7 @@ https://gist.githubusercontent.com/inrl-official/89aba2b63cb7b869b36651965af180e
 
 <br>
 
-<h4 align="center">yt play&doc</h4>
+<h4 align="center">ᴩᴍ ᴩᴇʀᴍɪᴛ</h4>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
 
@@ -48,7 +48,7 @@ https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 
-<h4 align="center">yt play&doc</h4>
+<h4 align="center">yᴛ ᴩʟᴀy&ᴅᴏᴄᴜᴍᴇɴᴛ</h4>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
 
