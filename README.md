@@ -20,18 +20,16 @@ note - this plugin only work in inrl-bot,
 https://gist.githubusercontent.com/inrl-official/89aba2b63cb7b869b36651965af180e7/raw/d654d05f2fc0facee1e86b0ce66f9f2167a7bf0a/fd.js
 ```
 - [x] example<details><summary>usage</summary><img src="https://i.imgur.com/HhlUx7C.jpeg"></details>
-
 <br>
 
 <h4 align="center">ᴩᴍ ᴩᴇʀᴍɪᴛ</h4>
-
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ᴡᴀʀɴ ᴜꜱᴇʀ ᴛᴏ ᴀᴠᴏɪᴅᴇ ꜱᴩᴀᴍɪɴɢ<br> 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
 
 
 ```js
 https://gist.githubusercontent.com/inrl-md/5d10c539f42fe03f4993471c88cdc00c/raw/4c252b1b43e997c23c1e807d210952bbe0ba6e5c/AutoblockPm
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ᴡᴀʀɴ ᴜꜱᴇʀ ᴛᴏ ᴀᴠᴏɪᴅᴇ ꜱᴩᴀᴍɪɴɢ<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 
