@@ -23,6 +23,18 @@ https://gist.githubusercontent.com/inrl-official/89aba2b63cb7b869b36651965af180e
 
 <br>
 
+<h4 align="center">yt play&doc</h4>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
+
+
+```js
+https://gist.githubusercontent.com/inrl-md/5d10c539f42fe03f4993471c88cdc00c/raw/4c252b1b43e997c23c1e807d210952bbe0ba6e5c/AutoblockPm
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ᴡᴀʀɴ ᴜꜱᴇʀ ᴛᴏ ᴀᴠᴏɪᴅᴇ ꜱᴩᴀᴍɪɴɢ<br> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
+<br>
+
 <h4 align="center">ᴀᴜᴛᴏ forward</h4>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
@@ -31,6 +43,7 @@ https://gist.githubusercontent.com/inrl-official/89aba2b63cb7b869b36651965af180e
 ```js
 https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f7/raw/a88389f540881bd034a31070cc227cc177b15603/autoforwd.js
 ```
+ɴᴏᴛᴇ :ꜰᴏʀᴋ ᴀɴᴅ ᴇᴅɪᴛ ᴛʜɪꜱ ᴩʟᴜɢɪɴ, ᴀᴅᴅ ꜱᴛᴀʀᴛɪɴɢ ᴠᴀʟᴜᴇ ᴏꜰ ᴜꜱᴇʀ, (ᴇx ꜰᴏʀ ɪɴᴅɪᴀɴ "91") ᴀɴᴅ ᴄᴏᴜɴᴛ ᴏꜰ ᴡᴀʀɴɪɴɢꜱ ɪɴ ᴩᴍ ᴍꜱɢ<br>
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it forward all msgs from one jid ᴛᴏ ᴊɪᴅ to another jid<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
