@@ -33,7 +33,7 @@ https://gist.githubusercontent.com/inrl-md/5d10c539f42fe03f4993471c88cdc00c/raw/
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 
-<h4 align="center">ᴀᴜᴛᴏ forward</h4>
+<h4 align="center">ᴀᴜᴛᴏ ꜰᴏʀᴡᴇʀᴅ</h4>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
 
@@ -46,7 +46,7 @@ https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 
-<h4 align="center">yᴛ ᴩʟᴀy&ᴅᴏᴄᴜᴍᴇɴᴛ</h4>
+<h4 align="center">yᴛ ᴩʟᴀy ᴀɴᴅ ᴅᴏᴄᴜᴍᴇɴᴛ</h4>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
 
@@ -55,6 +55,18 @@ https://gist.githubusercontent.com/inrl-official/35f00bb06b44abad68c5cf75e346d3f
 https://gist.githubusercontent.com/inrl-md/aa6bcb5132167cb3d0525a37cb33b6b9/raw/39a503884aeb6879cc9dfc153e6be0f4b8819dff/ytplay.doc.js
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ꜱᴇɴᴅ ᴩʟᴀy ᴀɴᴅ ᴅᴏᴄ ᴄᴍᴅ ᴛᴏ ᴜꜱᴇ ɪɴꜰᴏ ᴏꜰ ᴠɪᴅᴇᴏ ᴀɴᴅ ɢɪᴠᴇ ᴅᴏᴄᴜᴍᴇɴᴛ ꜰᴏʀᴍᴇᴛ<br> 
+ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
+<br>
+<br>
+<h4 align="center">ᴀᴜᴛᴏ ɢʀᴩ ʟɪɴᴋ ᴅʟᴛ</h4>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/inrl-official">ɪɴʀʟ</a>
+
+
+```js
+https://gist.githubusercontent.com/inrl-md/950ea5dcb90c108213936f4d4362d3c5/raw/9343dc9dc7efbb86a3de37f4d4ad901a965c1e3b/auto-grp-link-dlt
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ᴅʟᴛ ɢʀᴏᴜᴩ ʟɪɴᴋ ᴡʜᴇɴ ꜱᴇɴᴅɪɴɢ ɢʀᴏᴜᴩʟɪɴᴋꜱ ᴀꜱ ɴᴏᴛ ᴀᴅᴍɪɴꜱ ᴀɴᴅ ᴏᴡɴᴇʀꜱ<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
 <br>
 <br>
