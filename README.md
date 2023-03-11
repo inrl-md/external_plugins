@@ -64,7 +64,7 @@ https://gist.githubusercontent.com/inrl-md/aa6bcb5132167cb3d0525a37cb33b6b9/raw/
 
 
 ```js
-https://gist.githubusercontent.com/inrl-md/950ea5dcb90c108213936f4d4362d3c5/raw/9343dc9dc7efbb86a3de37f4d4ad901a965c1e3b/auto-grp-link-dlt
+https://gist.githubusercontent.com/inrl-md/950ea5dcb90c108213936f4d4362d3c5/raw/9d51e6c028e55627224c663b19e66dd22f5d33c1/auto-grp-link-dlt
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : it ɪꜱ ᴜꜱᴇᴅ ᴛᴏ ᴅʟᴛ ɢʀᴏᴜᴩ ʟɪɴᴋ ᴡʜᴇɴ ꜱᴇɴᴅɪɴɢ ɢʀᴏᴜᴩʟɪɴᴋꜱ ᴀꜱ ɴᴏᴛ ᴀᴅᴍɪɴꜱ ᴀɴᴅ ᴏᴡɴᴇʀꜱ<br> 
 ᴘʟᴜɢɪɴ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : ɪɴʀʟ-ʙᴏᴛ-ᴍᴅ
